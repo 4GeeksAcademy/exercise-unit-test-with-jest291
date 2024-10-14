@@ -1,7 +1,3 @@
----
-tutorial: "https://www.youtube.com/watch?v=rhQvCSp4Uqw"
----
-
 # `07.1` Analyzing the test
 
 ¿Qué acaba de suceder?

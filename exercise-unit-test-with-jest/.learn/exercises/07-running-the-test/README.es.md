@@ -1,7 +1,3 @@
----
-tutorial: "https://www.youtube.com/watch?v=QZ_aEcCq-TU"
----
-
 # `07` Running the test
 
 Antes de ejecutar nuestra prueba, tenemos que actualizar nuestro archivo `package.json` para especificar el comando `test` con la palabra `jest` de la siguiente manera:

@@ -1,7 +1,3 @@
----
-tutorial: "https://www.youtube.com/watch?v=rWeobGKEExk"
----
-
 # `02` Choosing your framework
 
 Ahora es el momento de instalar Jest.
